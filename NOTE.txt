@@ -1,0 +1,21 @@
+
+1) SDL2 IS THE LIBRARY I USED FOR THE GUI
+
+
+2) TO COMPILE THIS PROGRAM, ENSURE YOU ARE AT THE FIRST LEVEL OF WORKING DIRECTORY:
+gcc src/game_logic.c src/gui.c src/init_game.c src/main.c src/menu.c src/multiplayer.c src/neural_network.c src/render.c src/tic_tac_toe_imperfect_minimax.c src/tic_tac_toe_minimax.c -o TicTacToe -I src/include -L src/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf
+
+
+5) THE TASK:
+
+PLAYER VS PLAYER - Two Player Mode: Task 1
+
+PLAYER VS CPU (EASY) - NEURAL NETWORK: TASK 2
+
+PLAYER VS CPU (MEDIUM) - IMPERFECT MINIMAX: TASK 3
+
+PLAYER VS CPU (IMPOSSIBLE) - PERFECT MINIMAX: TASK 4
+
+
+6) WHEN RUNNING TIC TAC TOE PROGRAM, PLEASE RUN IT IN A DIRECTORY WITH SDL2_TTF.DDLL AND SDL2.DLL
+
