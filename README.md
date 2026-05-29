@@ -134,10 +134,9 @@ src/
 ---
 ## Screenshots
 
-### Main Menu
+![Main Menu](assets/Menu.png)
+![Gameplay](assets/gameplay.png)
 
-
-### Gameplay
 
 ---
 
